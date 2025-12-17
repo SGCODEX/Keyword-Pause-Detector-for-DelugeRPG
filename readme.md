@@ -90,8 +90,12 @@ chrome://extensions
 
 Below is how the extension appears on the Chrome extensions page:
 
+<img width="316" height="172" alt="Screenshot 2025-12-17 194408" src="https://github.com/user-attachments/assets/401d2e10-1436-4da5-bd50-a24312103747" />
 
 Extension in action:
+
+<img width="700" height="400" alt="Screenshot 2025-12-17 200855" src="https://github.com/user-attachments/assets/111fdbbc-f1c5-47b6-be8f-f2bd3c97957e" />
+<img width="700" height="400" alt="Screenshot 2025-12-17 200927" src="https://github.com/user-attachments/assets/13db690b-93e0-47a9-9e86-081f59910ea7" />
 
 
 ---
