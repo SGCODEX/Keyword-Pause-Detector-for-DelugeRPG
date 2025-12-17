@@ -72,7 +72,7 @@ Add or remove keywords as you like, then reload the extension.
 
 1. Clone or download this repository
 ```
-git clone 
+git clone https://github.com/SGCODEX/Keyword-Pause-Detector-for-DelugeRPG.git
 ```
 2. Open Chrome and go to:
 ```
