@@ -1,4 +1,4 @@
-# 🛑 Keyword Pause Detector for DelugeRPG
+# Keyword Pause Detector for DelugeRPG ⚪🔴
 
 **A lightweight Chrome extension designed to prevent accidental skips of rare Pokémon encounters in DelugeRPG.**
 
